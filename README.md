@@ -1,3 +1,3 @@
 # CSP-Exercises
 CCF CSP
-http://118.190.20.162/
+http://118.190.20.162/home.page
