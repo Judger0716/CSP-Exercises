@@ -1,6 +1,11 @@
 # CSP-Exercises
 CCF CSP
 https://csp.ccf.org.cn/csp/index.action
+202104-1 100
+
+202104-2 70
+
+202104-3 100
 
 202012-1 100
 
